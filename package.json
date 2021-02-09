@@ -1,0 +1,31 @@
+{
+  "name": "expresstuttravisty",
+  "version": "1.0.0",
+  "description": "tutorial following youtube travisty media https://www.youtube.com/watch?v=L72fhGm1tfE",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClintCrab/expressTutTravisty.git"
+  },
+  "keywords": [
+    "Express",
+    "Tutorial",
+    "Travisty"
+  ],
+  "author": "Clint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClintCrab/expressTutTravisty/issues"
+  },
+  "homepage": "https://github.com/ClintCrab/expressTutTravisty#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
